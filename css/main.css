@@ -35,3 +35,27 @@ nav .brand-logo img {
 .ready h4 {
     margin: 3% auto 5%;
 }
+/* Pretty */
+.pretty h5 {
+    margin: min(39px, 5vh) auto;
+}
+.pretty h6:last-child {
+    margin-bottom: min(70px, 7vh);
+}
+.pretty .card-panel {
+    padding: 0;
+}
+.pretty img {
+    max-width: 90%;
+}
+/* Feel */
+.feel .row .col {
+    padding: 0;
+}
+/* Meet */
+.meet .col {
+    padding: 2%;
+}
+.meet img {
+    max-width: 90%;
+}
